@@ -1,1 +1,1 @@
-userbot: bash Lion
+Lion: python -m Lion
